@@ -1,0 +1,516 @@
+<?xml version='1.0' standalone='yes'?>
+<zest>
+  <menu name="lunch">
+    <appetizers>
+      <item name="Buffalo Chicken Beer Cheese Dip">
+        <description>Made with IPA beer, spicy &amp; cheesy, served with tortilla chips.</description>
+        <price>7</price>
+      </item>
+      <item name="Fried Asparagus">
+        <description>Juicy fresh fried asparagus with our garlic and herb dipping sauce</description>
+        <price>6</price>
+      </item>
+      <item name="Crab Dip">
+        <description>Lowcountry specialty served on open toasted baguette.</description>
+        <price>8</price>
+      </item>
+    </appetizers>
+    <sides>
+      <item name="Fries">
+        <price></price>
+      </item>
+      <item name="Coleslaw">
+        <price></price>
+      </item>
+      <item name="Zest Salad">
+        <price></price>
+      </item>
+      <item name="Zest Soup of the Day">
+        <price></price>
+      </item>
+      <item name="Pecan Bacon Mac &amp; Cheese">
+        <price></price>
+      </item>
+      <item name="Seasonal Side">
+        <price></price>
+      </item>
+    </sides>
+    <desserts>
+      <item name="Chocolate Mousse">
+        <price>5.5</price>
+      </item>
+      <item name="Cheesecake">
+        <price>6</price>
+      </item>
+    </desserts>
+    <entrees>
+      <item name="Summerville Chicken &amp; Bacon">
+        <description>Chicken tenderloin marinated in hardd cider, panko crusted and pan fried with pecan smoked bacon, ranch dressing, lettuce &amp; tomato on toasted brioche.</description>
+        <price>10</price>
+      </item>
+      <item name="Turkey Club">
+        <description>Turkey, pecan smoked bacon, avocado, Swiss, lettuce, tomato, citrus aioli on toasted croissant.</description>
+        <price>10.5</price>
+      </item>
+      <item name="Salmon Fajita Salad">
+        <description>Chili rubbed salmon, corn, black beans, roasted red peppers, cheddar, avocado w/ cilantro lime dressing.</description>
+        <price>14</price>
+      </item>
+      <item name="Crab Cake Sandwich">
+        <description>Cajun style crab cake served with lettuce, tomato &amp; sundried tomato aioli.</description>
+        <price>10</price>
+      </item>
+      <item name="Turkey Reuben">
+        <description>Juicy roasted turkey, swiss, sauerkraut, 1000 island dressing on grilled marble rye.</description>
+        <price>9.5</price>
+      </item>
+      <item name="BLT">
+        <description>Thick pecan wood bacon, lettuce, tomato &amp; mayo on sourdough or brioche. Add grilled salmon for 4.</description>
+        <price>8.5</price>
+      </item>
+      <item name="Tuscan Grilled Cheese">
+        <description>Prosciutto, mozzarella tomato &amp; homemade pesto on grilled sourdough.</description>
+        <price>8.5</price>
+      </item>
+      <item name="Chicken Tenders">
+        <description>First marinated in Stella Artois cider then pan fried panko crusted.</description>
+        <price>10</price>
+      </item>
+      <item name="Caesar Salad">
+        <description>Classic Caesar salad. add grilled chicken 3. Seafood of the day market value. Steak 4. Grilled asparagus 3.</description>
+        <price>8</price>
+      </item>
+      <item name="Venice Steak Salad">
+        <description>Sirloin steak strips, blue cheese, tomato, roasted red pepper, mozzarella, red onion &amp; raspberry vinaigrette.</description>
+        <price>15</price>
+      </item>
+      </entrees>
+    <burgers>
+      <item name="Black Bean Burger">
+        <description>Gourmet, made from scratch black bean patty with lettuce, tomato &amp; sriracha mayo on toasted brioche bun.</description>
+        <price>10</price>
+      </item>
+      <item name="Southwest Burger">
+        <description>1/2 lb Angus beef patty, black bean pico, cheddar cheese, lettuce, tomato, sundried tomato aioli and a side of jalapenos on toasted brioche.</description>
+        <price>11</price>
+      </item>
+      <item name="Mushroom &amp; Swiss Burger">
+        <description>1/2 lb Angus beef patty, chopped marinated &amp; sautéed Portobello mushrooms with Swiss cheese, spicy mustard, lettuce &amp; tomato, on toasted brioche.</description>
+        <price>12</price>
+      </item>
+      <item name="Tuscan Burger">
+        <description>1/2 lb Angus beef patty, homemade pesto, grilled prosciutto &amp; tomato with mozzarella on toasted brioche.</description>
+        <price>13</price>
+      </item>
+      <item name="Southwest Burger">
+        <description>1/2 lb Angus beef patty, black bean pico, cheddar cheese, lettuce, tomato, sundried tomato aioli, side of jalapenos on toasted brioche.</description>
+        <price>11</price>
+      </item>
+      <item name="Wrangler Burger">
+        <description>1/2 lb Angus beef patty  w/ pecan wood bacon, BBQ sauce, grilled onions &amp; cheddar cheese, side of jalapenos on toasted brioche.</description>
+        <price>12</price>
+      </item>
+    </burgers>
+  </menu>
+  <menu name="dinner">
+    <appetizers>
+      <item name="Buffalo Chicken Beer Cheese Dip">
+        <description>Made with IPA beer, spicy &amp; cheesy, served with tortilla chips.</description>
+        <price>7</price>
+      </item>
+      <item name="Cheese Fritters">
+        <description>Mozzarella, provolone, parmesan &amp; feta cheeses, fresh basil, flash fried over homemade marinara.</description>
+        <price>7</price>
+      </item>
+      <item name="Crab Dip">
+        <description>Lowcountry specialty served on open toasted baguette.</description>
+        <price>8.5</price>
+      </item>
+      <item name="Fried Asparagus">
+        <description>Juicy fresh fried asparagus with our garlic and herb dipping sauce</description>
+        <price>6</price>
+      </item>
+      <item name="Sriracha Fries">
+        <description>our fries smothered with cheddar cheese, sriracha &amp; ranch dressing.</description>
+        <price>6</price>
+      </item>
+    </appetizers>
+    <sides>
+      <item name="Coleslaw">
+        <description></description>
+        <price></price>
+      </item>
+      <item name="Collard Greens">
+        <description></description>
+        <price></price>
+      </item>
+      <item name="Farmer's Market Fruit">
+        <description></description>
+        <price></price>
+      </item>
+      <item name="Fries">
+        <description></description>
+        <price></price>
+      </item>
+      <item name="Grilled Asparagus">
+        <description></description>
+        <price></price>
+      </item>
+      <item name="Roasted Garlic Mashed Potatoes">
+        <description></description>
+        <price></price>
+      </item>
+      <item name="Zest Salad">
+        <description></description>
+        <price></price>
+      </item>
+      <item name="Zest Soup of the Day">
+        <description></description>
+        <price></price>
+      </item>
+      <item name="Bacon Mac &amp; Cheese">
+        <description></description>
+        <price></price>
+      </item>
+      <item name="Seasonal Side">
+        <description></description>
+        <price></price>
+      </item>
+    </sides>
+    <desserts>
+      <item name="Chocolate Mousse">
+        <price>5.5</price>
+      </item>
+      <item name="Cheesecake">
+        <price>6</price>
+      </item>
+    </desserts>
+    <entrees>
+      <item name="Chicken Portobello">
+        <description>with our made to order creamy sherry sauce over mashed potatoes 17.</description>
+        <price>17</price>
+      </item>
+      <item name="Sauteed Mahi &amp; Asparagus">
+        <description>6oz Pan seared Mahi with asparagus, peppers &amp; onions in a pesto cream sauce over rice.</description>
+        <price>19</price>
+      </item>
+      <item name="New Zealand Rack of Lamb">
+        <description>Well seasoned Lamb topped with pesto. Served with (2) sides, served only on Saturdays.</description>
+        <price>24</price>
+      </item>
+      <item name="Lowcountry Shrimp">
+        <description>Pan seared cajun style shrimp with collard greens in our bacon cream sauce over mashed potatoes.</description>
+        <price>18</price>
+      </item>
+      <item name="Taco Platter">
+        <description>Your choice of 2 or 3 tacos.  Choose from black bean &amp; avocado, chili chicken, grilled mahi or shrimp.  All tacos are served with pico de gallo, cheese, red cabbage, shredded lettuce and sour cream.  Served with a side of chili lime rice.</description>
+        <price>12 or 16</price>
+      </item>
+      <item name="Salmon Fajita Salad">
+        <description>Chili rubbed salmon, corn, black beans, roasted red peppers, cheddar cheese, avocado, cilantro lime dressing.</description>
+        <price>14</price>
+      </item>
+      <item name="Chicken Tenders">
+        <description>First marinated in hard Carolina apple cider then pan fried panko crusted.</description>
+        <price>10</price>
+      </item>
+      <item name="Caesar Salad">
+        <description>Classic Caesar salad. add grilled chicken 3. Seafood of the day market value. Steak 4. Grilled asparagus 3.</description>
+        <price>8</price>
+      </item>
+      <item name="Bistro Steak">
+        <description>6oz+ house butchered angus sirloin steak with homemade pesto &amp; your choice of (2) sides 19, add crab cake 5</description>
+        <price>19</price>
+      </item>
+      <item name="Steak Zest">
+        <description>12oz house butchered ribeye steak with pesto and your choice of (2) sides.</description>
+        <price>23</price>
+      </item>
+    </entrees>
+    <burgers>
+      <item name="Black Bean Burger">
+        <description>Gourmet, made from scratch black bean patty with lettuce, tomato &amp; sriracha mayo on toasted brioche bun.</description>
+        <price>10</price>
+      </item>
+      <item name="Mushroom &amp; Swiss Burger">
+        <description>Angus beef patty, chopped marinated &amp; sautéed Portobello mushrooms with Swiss cheese, spicy mustard, lettuce &amp; tomato, on toasted brioche.</description>
+        <price>12</price>
+      </item>
+      <item name="Tuscan Burger">
+        <description>Angus ground beef, homemade pesto crispy prosciutto &amp; tomato with mozzarella on toasted brioche.</description>
+        <price>13</price>
+      </item>
+      <item name="Southwest Burger">
+        <description>Angus ground beef, black bean pico, cheddar cheese, lettuce, tomato, sundried tomato aioli, side of jalapenos on toasted brioche.</description>
+        <price>11</price>
+      </item>
+      <item name="Wrangler Burger">
+        <description>Angus beef patty  w/ pecan wood bacon, BBQ sauce, grilled onions &amp; cheddar cheese, side of jalapenos on toasted brioche.</description>
+        <price>12</price>
+      </item>
+    </burgers>
+  </menu>
+  <menu name="brunch">
+    <appetizers>
+      <item name="Buffalo Chicken Beer Cheese Dip">
+        <description>Made with IPA beer, spicy &amp; cheesy, served with tortilla chips.</description>
+        <price>7</price>
+      </item>
+           <item name="Crab Dip">
+        <description>Lowcountry specialty served on open toasted baguette.</description>
+        <price>8.5</price>
+      </item>
+    </appetizers>
+    <sides>
+      <item name="Fries">
+        <price>3</price>
+      </item>
+      <item name="Coleslaw">
+        <price>2</price>
+      </item>
+      <item name="Zest Salad">
+        <price>3</price>
+      </item>
+      <item name="Zest Soup of the Day">
+        <price>3</price>
+      </item>
+      <item name="Asparagus">
+        <price>3</price>
+      </item>
+      <item name="Seasonal Side">
+        <price>2</price>
+      </item>
+      <item name="Bacon">
+        <price>3</price>
+      </item>
+      <item name="Farmer's Market Fruit">
+        <price>3</price>
+      </item>
+    </sides>
+    <entrees>
+      <item name="Shrimp &amp; Grits ">
+        <description>Well seasoned shrimp over stone ground grits with our amazing pecan bacon gravy.</description>
+        <price>18</price>
+      </item>
+      <item name="Bacon &amp; Egg Croissant">
+        <description>Our pecan wood bacon with cheese, (2) eggs to order with aioli, served with one side.</description>
+        <price>10</price>
+      </item>
+      <item name="Fried Chicken &amp; Grits">
+        <description>Fried chicken &amp; grits cider marinated fried chicken tenders over stone ground grits with our amazing pecan bacon gravy.</description>
+        <price>12</price>
+      </item>
+      <item name="Quiche of the Day">
+        <description>Made fresh every Saturday and Sunday at zest, Enjoy this customer favorite, served with side salad.</description>
+        <price>8.5</price>
+      </item>
+      <item name="French Toast">
+        <description>glorious crème brulee French toast served with bacon &amp; one side.</description>
+        <price>13</price>
+      </item>
+      <item name="Steak and Eggs">
+        <description>Steak of the day (ask you server) with eggs and your choice of one side.</description>
+        <price>16-22</price>
+      </item>
+      <item name="Monte Cristo">
+        <description>Our French Toast bagguette sandwich with pecan wood smoked bacon, Swiss, turkey and one side.</description>
+        <price>11</price>
+      </item>
+      <item name="Salmon and Eggs">
+        <description>grilled salmon, topped with (2) fried eggs over grits with a mustard dill cream sauce.</description>
+        <price>13.5</price>
+      </item>
+      <item name="Summerville Chicken and Bacon">
+        <description>chicken tenderloin marinated in cider, panko crusted and pan fried with pecan bacon, ranch dressing, lettuce &amp; tomato on toasted brioche served with one side .</description>
+        <price>10</price>
+      </item>
+      <item name="BLT">
+        <description>Plenty of pecan wood bacon, lettuce, tomato and mayo on toasted sourdough.</description>
+        <price>8.5</price>
+      </item>
+    </entrees>
+    <burgers>
+      <item name="Black Bean Burger">
+        <description>Gourmet, made from scratch black bean patty with lettuce, tomato &amp; sriracha mayo on toasted brioche bun.</description>
+        <price>10</price>
+      </item>
+      <item name="Mushroom &amp; Swiss Burger">
+        <description>1/2 lb Angus beef patty, chopped marinated &amp; sautéed Portobello mushrooms with Swiss cheese, spicy mustard, lettuce &amp; tomato, on toasted brioche.</description>
+        <price>12</price>
+      </item>
+      <item name="Tuscan Burger">
+        <description>1/2 lb Angus ground beef, homemade pesto crispy prosciutto &amp; tomato with mozzarella on toasted brioche.</description>
+        <price>13</price>
+      </item>
+      <item name="Southwest Burger">
+        <description>1/2 lb Angus ground beef, black bean pico, cheddar cheese, lettuce, tomato, sundried tomato aioli, side of jalapenos on toasted brioche.</description>
+        <price>11</price>
+      </item>
+      <item name="Wrangler Burger">
+        <description>1/2 lb Angus beef patty  w/ pecan wood bacon, BBQ sauce, grilled onions &amp; cheddar cheese, side of jalapenos on toasted brioche.</description>
+        <price>12</price>
+      </item>
+      <item name="Zest Burger">
+        <description>1/2 lb Angus patty, lettuce, tomato, cheddar cheese 9, bacon burger.</description>
+        <price>10.5</price>
+      </item>
+      <item name="Breakfast Burger">
+        <description>1/2 lb Angus patty, fried egg, pecan wood bacon, and cheddar cheese on a brioche bun with fries.</description>
+        <price>13</price>
+      </item>
+    </burgers>
+  </menu>
+  <menu name="drinks">
+    <drink type="Beer">
+      <item name="Highland Porter">
+        <price>4.5</price>
+      </item>
+      <item name="Budweiser">
+        <price>3</price>
+      </item>
+      <item name="Bud Light">
+        <price>3</price>
+      </item>
+      <item name="Corona">
+        <price>4</price>
+      </item>
+      <item name="Curious Traveler Lemon Shandy">
+        <price>4.5</price>
+      </item>
+      <item name="Holy City Overly Friendly IPA">
+        <price>4.9</price>
+      </item>
+      <item name="Holy City Pluff Mud Porter (draft)">
+        <price>4.5, 5.5, 6.5</price>
+      </item>
+      <item name="Kona Big Wave Golden Ale">
+        <price>4</price>
+      </item>
+      <item name="Aynger Doppelbock">
+        <price>7.9</price>
+      </item>
+      <item name="Leinenkugel's Summer Shandy">
+        <price>4</price>
+      </item>
+      <item name="Michelob Ultra">
+        <price>3.5</price>
+      </item>
+      <item name="Miller Lite">
+        <price>3</price>
+      </item>
+      <item name="Green Man ESB Amber Ale">
+        <price>4.5</price>
+      </item>
+      <item name="Newcastle Brown Ale">
+        <price>3.5</price>
+      </item>
+      <item name="Paulaner Hefe-Weizen">
+        <price>4.5</price>
+      </item>
+      <item name="Sierra Nevada Pale Ale">
+        <price>4</price>
+      </item>
+      <item name="Pinkus Hefe-Weizen">
+        <price>8</price>
+      </item>
+      <item name="Sam Adam Summer Ale (draft)">
+        <price>4, 5, 6</price>
+      </item>
+      <item name="Sam Smith Chocolate Stout">
+        <price>6.5</price>
+      </item>
+      <item name="Terrapin Chocolate Peanut Butter Porter">
+        <price>4.5</price>
+      </item>
+      <item name="Unibroue La Fin Da Monde Ale">
+        <price>7.4</price>
+      </item>
+      <item name="Wild Blue (blueberry beer)">
+        <price>4.5</price>
+      </item>
+      <item name="Yuengling Lager">
+        <price>3.25</price>
+      </item>
+    </drink>
+    <drink type="IPA">
+      <item name="Blue Point Session">
+        <price>5</price>
+      </item>
+      <item name="Founders All Day">
+        <price>4.5</price>
+      </item>
+      <item name="Harpoon Braggot Rights Honey IPA (draft)">
+        <price>4.5, 5.5</price>
+      </item>
+      <item name="Harpoon Leviathan Imperial IPA">
+        <price>6</price>
+      </item>
+      <item name="Harpoon Rye IPA (draft)">
+        <price>4.5, 5.5. 6.5</price>
+      </item>
+      <item name="Lagunitas IPA (draft)">
+        <price>4, 5, 6</price>
+      </item>
+      <item name="Sierra Nevada Torpedo Extra IPA (draft)">
+        <price>4.5, 5.5, 6.5</price>
+      </item>
+      <item name="Sierra Nevada Hoptimum Imperial IPA">
+        <price>6.4</price>
+      </item>
+      <item name="Stone IPA">
+        <price>5</price>
+      </item>
+    </drink>
+    <drink type="Cider">
+      <item name="Stella Artois Cidre (draft)">
+        <price>4.5, 5.5, 6.5</price>
+      </item>
+      <item name="Bold Rock Carolina Apple">
+        <price>4.5</price>
+      </item>
+    </drink>
+    <drink type="Signature Drinks">
+      <item name="Bloody Mary">
+        <price>5</price>
+      </item>
+      <item name="Hard Mango Sweet Tea">
+        <price>6</price>
+      </item>
+      <item name="Mango-Rita">
+        <price>5.5</price>
+      </item>
+      <item name="Mimosa">
+        <price>3.5</price>
+      </item>
+      <item name="Sparkling Coconut Lemon Grass">
+        <price>4</price>
+      </item>
+      <item name="Zest Seasonal Sangria - 20oz">
+        <price>6.9</price>
+      </item>
+    </drink>
+    <drink type="Non-Alcoholic">
+      <item name="Iced Tea">
+        <price>2.3</price>
+      </item>
+      <item name="Coke">
+        <price>2.3</price>
+      </item>
+      <item name="Sprite">
+        <price>2.3</price>
+      </item>
+      <item name="Root Beer">
+        <price>2.3</price>
+      </item>
+      <item name="Orange Fanta">
+        <price>2.3</price>
+      </item>
+      <item name="Lemonade">
+        <price>2.3</price>
+      </item>
+      <item name="Tableside French Press Coffee">
+        <price>4</price>
+      </item>
+    </drink>
+  </menu>
+</zest>
