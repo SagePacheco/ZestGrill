@@ -38,8 +38,8 @@ require('js/menuLogic.php');
 <link rel="stylesheet" href="css/styles.css">
 
 <!-- Animation Library -->
-<!--<link rel="stylesheet" type="text/css" href="css/animate.min.css">
--->
+<link rel="stylesheet" type="text/css" href="css/animate.min.css">
+
 <!-- Google Font API -->
 <link href="http://fonts.googleapis.com/css?family=Roboto+Condensed:400,300" rel="stylesheet" type="text/css">
 </head>
@@ -219,9 +219,12 @@ require('js/menuLogic.php');
 <script type="text/javascript" src="js/waypoints.min.js"></script> 
 
 <!-- "Wow" animations --> 
-<script src="js/wow.min.js"></script> 
+<script src="js/wow.min.js"></script>
 
 <!-- Self-Configured Behavior Script --> 
 <script src="js/frontEndLogic.js" type="text/javascript"></script>
+<script>
+    new WOW().init();
+</script>
 </body>
 </html>
